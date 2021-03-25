@@ -170,7 +170,7 @@ body::-webkit-scrollbar-thumb {
   animation: gradient 15s ease infinite;
 }
 h6{
-	color: yellow;
+	color: #26cc59;
 	background-color: black;
 	padding: 10px;
 	font-size: 15px;
